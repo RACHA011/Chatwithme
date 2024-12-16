@@ -16,7 +16,7 @@ ChatWithMe is a Java-based project that serves as the frontend for a login and s
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ChatWithMe.git
+   git clone https://github.com/RACHA011/ChatWithMe.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -24,17 +24,7 @@ ChatWithMe is a Java-based project that serves as the frontend for a login and s
    ```
 3. Open the project in your preferred IDE or compile it using the terminal.
 
-### Running the Project
-1. Compile the code:
-   ```bash
-   javac -d bin src/com/racha/chatwithme/*.java src/com/racha/main/*.java
-   ```
-2. Run the `Chatwithme` class:
-   ```bash
-   java -cp bin com.racha.chatwithme.Chatwithme
-   ```
-
-Alternatively, you can run the project directly from your IDE by setting `Chatwithme` as the main class.
+you can run the project directly from your IDE by setting `Chatwithme` as the main class.
 
 ## Future Updates
 - Enhanced user interface for login and sign-in.
